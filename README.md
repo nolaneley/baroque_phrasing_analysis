@@ -7,12 +7,12 @@ This project showcases:
 - **Input feature comparison:** I compare two sets of input features by using them to train a machine learning classifier and comparing the resulting accuracies.
 - **Importance of domain knowledge:** By leveraging knowledge of music performance I was able to improve the ability of a classifier to predict performance style by 20% through improved feature engineering.
 
+### Website blog post
+https://www.nolaneley.com/portfolio/baroque-phrasing
+
 ### Code and Resources Used
 **Python Version**: 3.11.4
 **Packages**: pandas, numpy, matplotlib, scikit-learn
-
-### Website blog post
-https://www.nolaneley.com/baroque-phrasing
 
 ### Data sources and cleaning
 The data was manually calculated from raw audio recordings of three compositions by three different artists (representing three distinct performance styles) below:
