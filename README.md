@@ -27,6 +27,8 @@ All data were manually verified before any analysis.
 ### EDA
 In order to visualize high-dimensional data, t-squared stochastic neighbor embedding (t-SNE) was used.
 
+![tsnePerformer](/images/tsne_performer.png)
+
 ### Classification
 I trained support vector machines with radial basis function kernels and 5-fold cross validation to predict the performer based on two sets of features: the raw note-level tempo and loudness, and the engineered features (summary statistics of tempo and loudness of musically meaningful durations). I measured the performance of these two sets of features by taking the mean accuracy across these 5 folds.
 
