@@ -12,6 +12,7 @@ https://www.nolaneley.com/portfolio/baroque-phrasing
 
 ### Code and Resources Used
 **Python Version**: 3.11.4
+
 **Packages**: pandas, numpy, matplotlib, scikit-learn
 
 ### Data sources and cleaning
